@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;669&display=swap');
+
+.footer {
+  height: 80px;
+  background: rgb(25, 4, 57);
+  font-weight: bold !important;
+  font-size: 12px;
+  line-height: 15px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.footer-body {
+  font-family: 'Orbitron'; 
+  display: flex;
+  -webkit-box-align: center !important;
+  align-items: center !important;
+  -webkit-box-pack: justify !important;
+  justify-content: space-between !important;
+  margin: 0px auto !important;
+  color: white;
+  width: 85%;
+}
+
+a {
+  margin-left: 18px;
+}
